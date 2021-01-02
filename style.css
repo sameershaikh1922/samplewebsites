@@ -1,0 +1,92 @@
+
+.btn-header
+{
+    border: 1px solid palevioletred;
+    color: palevioletred;
+    border-radius: 12px;
+    width: 110px;
+    height: 30px;
+    float: right;
+    background-color: white;
+}
+.main-head
+{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.screen-mockup
+{
+    width: 100%;
+    height: auto;
+}
+.community-text
+{
+    color: grey;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+.number-k
+{
+    font-weight: bolder;
+    font-size: 80px;
+}
+.grow-together
+{
+    font-weight: bolder;
+    margin-top: 50px;
+}
+/* .grow-together-main
+{
+    background-image: url('assets/bg-section-top-desktop-1.svg');
+} */
+.images-main
+{
+    width: 100%;
+    height: auto;
+}
+.btn-pink 
+{
+    color: white;
+    border-radius: 15px;
+    background-color: #FF69B4;
+    border: none
+}
+.company-name
+{
+    font-weight: bold;
+
+}
+.company-description
+{
+    font-weight: bold;
+}
+.footer-button
+{
+    background-color: #FF69B4;
+    border: #FF69B4;
+}
+.section-margin
+{
+    margin-top: 20px;
+}
+.img-screen
+{
+    width: 100%;
+    height: auto;
+}
+.footer-bg
+{
+    background-color: #00252E;
+    color: white;
+    margin: 0px;
+}
+.footer-img-bg
+{
+    width: 100%;
+}
+.content-grow
+{
+    font-weight: bolder;
+    margin-top: 100px;
+}
